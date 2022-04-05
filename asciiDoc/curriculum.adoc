@@ -1,0 +1,165 @@
+== Humberto de Jesus Flores Acuña
+
+''''
+
+[cols="1",options="headers",width=70%,grid=none,frame=none]
+|===
+|Ingeniero en Computación +
+Tel. +52-1-55-4926-6159 +
+hdjesus.flores@gmail.com +
+Github: stokekld +
+|===
+
+
+==== Objetivo Profesional
+
+Posicionarme dentro del ambiente laboral en empresas o asociaciones que contengan reglas de negocio orientadas a las tecnologías de la información, proporcionando mis capacidades sobre ingeniería de software y utilización de herramientas de software libre, para generar excelentes resultados. Además, adquirir experiencia a través de la responsabilidad y confianza en mí depositada, logrando un paso importante en mi superación profesional.
+
+//[.left]
+//.a title
+//image::image.jpg[role="thumb right"]
+
+//Text in next paragraph.
+
+//[cols="2,^"]
+//|===
+//|Some +
+//text
+
+//|image:image.jpg[Foto, 100]
+//|===
+
+//==== Formación Académica
+
+//====== COLEGIO DE CIENCIAS Y HUMANIDADES (NAUCALPAN) | Certificado 
+
+//[example]
+//====
+//Pude concluir satisfactoriamente mis estudios de bachillerato, adquiriendo conocimientos sólidos de las principales áreas de la ciencia, además de valores y actitudes que me ayudarían a cursar con éxito mis estudios superiores.
+//====
+
+==== Experiencia Laboral
+
+[none]
+* Bitwise Integrated Technologies `_Junio 2018 – Presente_` +
+`_Ing. Luis David Fernández (Lider del Projecto)_` +
+`_Desarrollador IOT_`
++
+//====
+Soy parte del desarrollo de un dispositivo IOT para la industria agrícola, donde mi función principal fue crear la comunicación dispositivo-servidor y su comportamiento  con sus elementos de hardware. Logré el objetivo creando un sistema operativo GNU/Linux, el cual contenía servicios de systemd que programé en el lenguaje C para el manejo del protocolo MQTT.
+//====
+
+[none]
+* UCA Consejos Académicos de Área, UNAM `_Marzo 2016 – Junio 2018_` +
+`_Mtra. Rosario Freixas Flores (Jefa de Departamento)_` +
+`_Administrador de Servidores y Programador Web_`
++
+//====
+He estado presente en el desarrollo de aplicaciones web de los cuatro Consejos y en la administración  de los servidores que las contienen, también soy parte de la toma de desiciones para las necesidades tecnológicas en cada Consejo.
+//====
+
+[none]
+* INSTITUTO DE GEOGRAFÍA, UNAM `_Mayo – Noviembre 2015_` +
+`_Dr. Adrián Guillermo Aguilar Martínez (Jefe de área)_` +
+`_Administrador de Servidores_`
++
+//====
+Realicé la labor de administrador de servidores y programador analista. Como proyecto alterno, realicé la instalación de dos servidores: Goeserver y Goenetwork, que están encargados del catalogado y distribución de datos Geoespaciales.
+//====
+
+<<<
+
+[none]
+* SOFTCERT `_Julio 2014 – Marzo 2015_` +
+`_M.I. Jesús Ulises Acosta Robledo (Líder del proyecto)_` +
+`_Desarrollador en C_`
++
+//====
+Bajo la supervisión del M.I. Jesús Ulises Acosta Robledo, desarrollé comandos con lenguaje C para servidores GNU/Linux. Dichos servidores se encargaban de la administración de gasolineras, realizando tareas como: cálculo de líquido despachado, respaldo de ventas en base de datos, etc. Los comandos desarrollados se encargaban de la seguridad del servidor, del envío de las ventas a los servidores de PEMEX y de la navegación de los auditores por el servidor; todo esto bajo las normativas correspondientes.
+//====
+
+[none]
+* DICYG, FACULTAD DE INGENIERÍA, UNAM `_Agosto 2012 - Diciembre 2014_` +
+`_M.I. Tanya Itzel Arteaga Ricci (Jefa de la Unidad de Cómputo)_` +
+`_Becario_`
++
+//====
+Formé parte del equipo de becarios de la Unidad de Cómputo de la DICYG, llevando a cabo la función de Programador Analista, realizando sistemas a la medida según las necesidades específicas de la División, además de dar mantenimiento a los sistemas ya existentes. También desempeñé el cargo de administrador de los servidores donde son alojados dichos sistemas con sus respectivas bases de datos, y de igual manera seguí participando ligeramente en la organización y mantenimiento de la red de datos del edificio.
+//====
+
+[none]
+* DICYG, FACULTAD DE INGENIERÍA, UNAM `_Enero 2012 – Junio 2014_` +
+`_M.I. Tanya Itzel Arteaga Ricci (Jefa de la Unidad de Cómputo)_` +
+`_Instructor_`
++
+//====
+Como actividad complementaria a la de becario en la Unidad de Cómputo de la DICYG, tuve la función de instructor colaborando con la capacitación de alumnos de la facultad en temas de cómputo, como son: leguajes de programación orientados a la implementación de sistemas operativos y a desarrollo web, además de sistemas operativos basados en GNU/Linux.
+//====
+[none]
+** SISTEMA OPERATIVO LINUX BÁSICO | Del 16 al 20 de Junio de 2014 | Duración: 10 hrs. +
+LINUX BÁSICO | Del 6 al 10 de Enero de 2014 | Duración: 10 hrs. +
+DISEÑO WEB CON PHP Y MYSQL | Del 21 al 25 de Enero de 2013 | Duración: 15 hrs. +
+PROGRAMACIÓN EN C BÁSICO | Del 25 al 29 de Junio de 2012 | Duración: 15 hrs. +
+PROGRAMACIÓN EN C BÁSICO | Del 9 al 13 de Enero de 2012 | Duración: 10 hrs.
+
+[none]
+* DICYG, FACULTAD DE INGENIERÍA, UNAM `_Junio 2011 – Febrero 2012_` +
+`_M.I. Tanya Itzel Arteaga Ricci (Jefa de la Unidad de Cómputo)_` +
+`_Servicio social_`
++
+La labor que realicé dentro de la división es dar soporte y orientación técnica de los equipos de cómputo de los jefes, coordinadores, ingenieros y personal en general, que laboran en los distintos departamentos que conforman a la DICYG, asimismo participo ligeramente en la organización y mantenimiento de la red de datos del edificio, la cual tiene un infraestructura con un alto estándar de calidad.
+
+<<<
+
+[none]
+* ECOVIVIENDA `_Mayo 2010 - Abril 2011_` +
+`_Ing. José de Jesús Ibarra Landeros (Jefe de Sistemas)_` +
+`_Programador PHP_`
++
+La principal actividad que desempeñaba en la empresa fue dar soporte y desarrollo a módulos del sistema encargado de la gestión de todas las áreas de la compañía (ventas, jurídico, contraloría y administración), además participé en la creación de módulos totalmente nuevos para dicho sistema. También solucionaba problemas frecuentes de la red de datos y proporcionaba soporte técnico a equipos de cómputo y de oficina.
+
+==== Educación
+
+[none]
+* FACULTAD DE INGENIERIA, UNAM 
+[none]
+** Ingenieria en Computación (Cédula 10288750)
+[none]
+* Facultad de Ingeniería, División de Ingeniería Eléctrica
+[none]
+** DIPLOMADO LINUX EN SISTEMAS EMBEBIDOS | Del 5 de Febrero al 25 de Junio de 2016
+* Facultad de Ingeniería, Programa de Capacitación en Cómputo de la DICYG
+[none]
+** PROGRAMACIÓN CON RUBY | Del 11 al 15 de Enero de 2016 | Duración: 10 hrs. +
+ARCGIS BÁSICO CON PYTHON | Del 5 al 9 de Enero de 2015 | Duración: 10 hrs. +
+AUTOCAD PARA PRINCIPIANTES | Del 9 al 13 de Junio de 2014 | Duración: 10 hrs. +
+PYTHON INTERMEDIO | Del 20 al 24 de Enero de 2014 | Duración: 10 hrs. +
+PYTHON BÁSICO | Del 13 al 17 de Enero de 2014 | Duración: 10 hrs. +
+PROGRAMACIÓN PYTHON | Del 22 al 26 de Julio de 2013 | Duración: 10 hrs. +
+REDES DE DATOS BÁSICO | Del 30 de Julio al 3 de Agosto de 2012 | Duración: 15 hrs.
+
+==== Habilidades Profesionales
+
+[none]
+* Desarrollo
+**  PHP, JavaScript, C/C++, Java, Python, Ruby.
+* Web
+** HTML5, CSS, AngularJS, ReactJS.
+* Framework Web
+** Laravel, Django.
+* Redes
+** Cableado Estructurado, IPv4, DHCP, NAT.
+* Bases de Datos
+** MySQL, PostgreSQL, MongoDB
+* Sistemas Operativos
+** GNU/Linux (Debian, CentOS).
+* Herramientas del Servidor
+** Apache, PHP, Mysql, SSH, Cron, Contenedores.
+* Control de Versiones
+** Git.
+
+==== Competencias Profesionales
+
+[none]
+* Responsabilidad, Honestidad, Creatividad, Trabajo en equipo, Ideas de mejora, Lógica, Motivación, Trabajo bajo presión, Seguridad.
+* Ingles Intermedio.
